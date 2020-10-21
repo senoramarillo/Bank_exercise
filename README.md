@@ -1,1 +1,1 @@
-# Bank exercise (2018)
+# Bank exercise (Current status: 2018)
